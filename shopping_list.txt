@@ -3,3 +3,5 @@ paine
 rosii
 banane
 capsuni
+kiwi
+
